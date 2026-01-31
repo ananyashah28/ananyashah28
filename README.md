@@ -15,7 +15,7 @@
 * **Award-Winning Innovator:** Top 14 Finalist at the **Dewang Mehta IT Awards 2025** for a Gen-AI Powered Quotation System.
 * **AI/ML Specialist:** Completed dual internships at **Cygnet.One** focusing on advanced machine learning.
 * **Full-Stack Architect:** Developer of **FocusFlow**, a comprehensive MERN-stack productivity ecosystem.
-* Take a quick peek at my [Projects](https://github.com/ananyashah28?tab=repositories) 👈👈
+* Take a quick peek at my [Projects](https://github.com/ananyashah28/projects/tree/main) 👈👈
 * Take a quick peek at my [Resume](https://ananyas-portfolio.vercel.app/resume.pdf) 👈👈
 
 ---
