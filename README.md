@@ -15,7 +15,6 @@
 * **Award-Winning Innovator:** Top 14 Finalist at the **Dewang Mehta IT Awards 2025** for a Gen-AI Powered Quotation System.
 * **AI/ML Specialist:** Completed dual internships at **Cygnet.One** focusing on advanced machine learning.
 * **Full-Stack Architect:** Developer of **FocusFlow**, a comprehensive MERN-stack productivity ecosystem.
-* **Creative Founder:** Choreographer for **@theweddingchoreo**, blending artistic vision with technical precision.
 * Take a quick peek at my [Projects](https://github.com/your-username?tab=repositories) 👈👈
 * Take a quick peek at my [Resume](https://ananyas-portfolio.vercel.app/resume.pdf) 👈👈
 
