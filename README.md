@@ -17,7 +17,7 @@
 * **Full-Stack Architect:** Developer of **FocusFlow**, a comprehensive MERN-stack productivity ecosystem.
 * **Creative Founder:** Choreographer for **@theweddingchoreo**, blending artistic vision with technical precision.
 * Take a quick peek at my [Projects](https://github.com/your-username?tab=repositories) 👈👈
-* Take a quick peek at my [Resume](link-to-your-resume) 👈👈
+* Take a quick peek at my [Resume](https://ananyas-portfolio.vercel.app/resume.pdf) 👈👈
 
 ---
 
