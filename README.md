@@ -12,6 +12,7 @@
 ## Get to know me 🎯
 * Take a quick peek at my [Projects](https://github.com/ananyashah28/projects/tree/main) 👈👈
 * Take a quick peek at my [Resume](https://ananyas-portfolio.vercel.app/resume.pdf) 👈👈
+* Take a quick peek at my [Certificates](https://github.com/ananyashah28/certificates/tree/main) 👈👈
 
 ---
 
