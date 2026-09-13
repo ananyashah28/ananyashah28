@@ -28,11 +28,11 @@
 
 ---
 
-### 🚀 Quick Links
-* 🌐 **Live Portfolio Website**: [ananya-profile.vercel.app](https://ananya-profile.vercel.app)
-* 📄 **View Resume**: [Resume PDF](https://ananya-profile.vercel.app/resume.pdf)
-* 📜 **Certifications Directory**: [`CERTIFICATIONS.md`](https://github.com/ananyashah28/ananya-profile/blob/main/CERTIFICATIONS.md)
-* 💻 **Projects Directory**: [`PROJECTS.md`](https://github.com/ananyashah28/ananya-profile/blob/main/PROJECTS.md)
+## Get to know me 🎯
+* 🌐 Take a quick peek at my [Live Portfolio Website](https://ananya-profile.vercel.app) 👈
+* 📄 Take a quick peek at my [Resume](https://ananya-profile.vercel.app/resume.pdf) 👈
+* 💻 Take a quick peek at my [Projects Repo](https://github.com/ananyashah28/projects) 👈 *(See [`PROJECTS.md`](https://github.com/ananyashah28/ananya-profile/blob/main/PROJECTS.md) for full repo directory)*
+* 📜 Take a quick peek at my [Certificates Repo](https://github.com/ananyashah28/certificates) 👈 *(See [`CERTIFICATIONS.md`](https://github.com/ananyashah28/ananya-profile/blob/main/CERTIFICATIONS.md) for verified credentials)*
 
 ---
 
