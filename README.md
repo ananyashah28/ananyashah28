@@ -31,8 +31,8 @@
 ## Get to know me 🎯
 * 🌐 Take a quick peek at my [Live Portfolio Website](https://ananyas-portfolio.vercel.app) 👈
 * 📄 Take a quick peek at my [Resume](https://ananyas-portfolio.vercel.app/resume.pdf) 👈
-* 💻 Take a quick peek at my [Projects Repo](https://github.com/ananyashah28/projects) 👈 *(See [`PROJECTS.md`](https://github.com/ananyashah28/ananya-profile/blob/main/PROJECTS.md) for full repo directory)*
-* 📜 Take a quick peek at my [Certificates Repo](https://github.com/ananyashah28/certificates) 👈 *(See [`CERTIFICATIONS.md`](https://github.com/ananyashah28/ananya-profile/blob/main/CERTIFICATIONS.md) for verified credentials)*
+* 💻 Take a quick peek at my [Projects](https://github.com/ananyashah28/projects) 👈
+* 📜 Take a quick peek at my [Certifications](https://github.com/ananyashah28/certificates) 👈
 
 ---
 
